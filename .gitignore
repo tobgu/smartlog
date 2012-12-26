@@ -1,0 +1,7 @@
+/target
+/lib
+/classes
+/checkouts
+/bin
+*.jar
+*.class
